@@ -1,0 +1,15 @@
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.AssemblyInfoInputs.cache
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.AssemblyInfo.cs
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\bin\Debug\net6.0\exponent lab.exe
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\bin\Debug\net6.0\exponent lab.deps.json
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\bin\Debug\net6.0\exponent lab.runtimeconfig.json
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\bin\Debug\net6.0\exponent lab.dll
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\bin\Debug\net6.0\exponent lab.pdb
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.dll
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\refint\exponent lab.dll
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.pdb
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\exponent lab.genruntimeconfig.cache
+C:\Users\shane\Desktop\Random Code\exponent lab\exponent lab\obj\Debug\net6.0\ref\exponent lab.dll
